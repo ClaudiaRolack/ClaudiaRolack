@@ -1,4 +1,4 @@
-## ¡Hello World! I'm Claudia . . .
+<h1>¡Hello World! I'm Claudia . . .</h1>
 
   <h2>👩‍💻 About Me</h2>
   <h3>I’m a Full Stack Developer and a proud graduate of Coderhouse, where I learned to build digital experiences from scratch using tools like HTML, CSS, SASS, JavaScript, ReactJs, MongoDB, Express, Node.js, Docker, and more.</h3>
@@ -21,6 +21,7 @@
   <p align="center">
     <br>
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ClaudiaRolack&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaRolack&langs_count=8&theme=algolia&layout=compact"/>
   </p>
   <br>
   <div align="center">
