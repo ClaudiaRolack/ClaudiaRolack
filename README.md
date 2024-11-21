@@ -19,11 +19,11 @@
   <h3>I love the idea of building projects that are meaningful, innovative, and aligned with my values. I’m always on the lookout for new opportunities to learn, collaborate, and make a positive impact!</h3>
   <br>
   <div align="center">
-  <h2>How to Reach Me</h2>
+    <h2>How to Reach Me</h2>
     <a href="https://www.linkedin.com/in/claudia-rolack-silva-55756812a/" target="_blank">
     <img align="center" alt="Claudia Rolack| Linkedin" width="60em" src="https://github.com/user-attachments/assets/cb8478f4-9f2b-4f1c-9f74-e90d8835f046"/>
     </a>
-    <a href="email:claudia.rolack@gmail.com" >
-    <img align="center" alt="Claudia Rolack | Gmail" width="30em" src="https://github.com/user-attachments/assets/8b883024-21a5-4c34-ae1e-871fcc70c058" />
+    <a href="email:claudia.rolack@gmail.com">
+    <img align="center" alt="Claudia Rolack | Gmail" width="60em" src="https://github.com/user-attachments/assets/8b883024-21a5-4c34-ae1e-871fcc70c058"/>
     </a>
   </div>
