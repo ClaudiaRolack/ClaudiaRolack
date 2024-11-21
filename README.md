@@ -12,7 +12,7 @@
        </ul>
        <p align="center">
          <br>
-        <iframe src="https://giphy.com/embed/VfLlLYX1VcochIX96A"  height="150em" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+        <iframe src="https://giphy.com/embed/VfLlLYX1VcochIX96A"  height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
         </p>
     </td>
     <td>
