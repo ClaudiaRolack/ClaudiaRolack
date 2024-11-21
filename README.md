@@ -18,6 +18,11 @@
   <h2>✨ What Drives Me</h2>
   <h3>I love the idea of building projects that are meaningful, innovative, and aligned with my values. I’m always on the lookout for new opportunities to learn, collaborate, and make a positive impact!</h3>
   <br>
+  <p align="center">
+    <br>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </p>
+  <br>
   <div align="center">
     <h2>How to Reach Me</h2>
     <a href="https://www.linkedin.com/in/claudia-rolack-silva-55756812a/" target="_blank">
