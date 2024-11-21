@@ -21,7 +21,7 @@
   <div align="center">
   <h2>How to Reach Me</h2>
     <a href="https://www.linkedin.com/in/claudia-rolack-silva-55756812a/" target="_blank">
-    <img align="center" alt="Claudia Rolack| Linkedin" width="60em" src="![image](https://github.com/user-attachments/assets/cb8478f4-9f2b-4f1c-9f74-e90d8835f046)" />
+    <img align="center" alt="Claudia Rolack| Linkedin" width="60em" src="https://github.com/user-attachments/assets/cb8478f4-9f2b-4f1c-9f74-e90d8835f046"/>
     </a> 
   </div>
 
