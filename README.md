@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td>
-      <h2> 💻 &nbsp;About Me </h2>
+      <h2>About Me</h2>
        <ul>
-        <li>🎓 &nbsp; I studied full stack development at Coder House on a scholarship from Falabella</li>
+        <li>🎓 I studied full stack development at <br> Coder House on a scholarship from Falabella</li>
         <li>📚 &nbsp; </li>
         <li>👑 &nbsp; Junior Java Back-end Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
