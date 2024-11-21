@@ -1,5 +1,5 @@
 <h1>¡Hello World! I'm Claudia . . .</h1>
-
+<br>
   <h2>👩‍💻 About Me</h2>
   <h3>I’m a Full Stack Developer and a proud graduate of Coderhouse, where I learned to build digital experiences from scratch using tools like HTML, CSS, SASS, JavaScript, ReactJs, MongoDB, Express, Node.js, Docker, and more.</h3>
   <br>
