@@ -24,6 +24,6 @@
     <img align="center" alt="Claudia Rolack| Linkedin" width="60em" src="https://github.com/user-attachments/assets/cb8478f4-9f2b-4f1c-9f74-e90d8835f046"/>
     </a>
     <a href="email:claudia.rolack@gmail.com">
-    <img align="center" alt="Claudia Rolack | Gmail" width="60em" src="https://github.com/user-attachments/assets/8b883024-21a5-4c34-ae1e-871fcc70c058"/>
+    <img align="center" alt="Claudia Rolack | Gmail" width="45em" src="https://github.com/user-attachments/assets/8b883024-21a5-4c34-ae1e-871fcc70c058"/>
     </a>
   </div>
