@@ -1,7 +1,12 @@
 ## ¡Hello World! I'm Claudia . . .
 
   <h2>About Me</h2>
-  <h3>🎓 I studied full stack development at Coder House on a scholarship from Falabella</h3>
-  <h3></h3>
+  <h3>I’m a Full Stack Developer and a proud graduate of Coderhouse, where I learned to build digital experiences from scratch using tools like HTML, CSS, SASS, JavaScript, ReactJs, MongoDB, Express, Node.js, Docker, and more.</h3>
+  <br>
+  <h2>🌟 Key Skills:</h2>
+  <h3>Frontend: HTML, CSS, SASS, ReactJs, Bootstrap</h3>
+  <h3>Backend: Node.js, Express, MongoDB, Socket.io</h3>
+  <h3>DevOps: Git, Docker, AWS</h3>
+  <h3>Other: Responsive Design</h3>
 
-<iframe src="https://giphy.com/embed/VfLlLYX1VcochIX96A" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/love-like-sssunong-VfLlLYX1VcochIX96A">via GIPHY</a></p>
+
